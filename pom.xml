@@ -78,8 +78,5 @@
 		<name>deploysnap</name>
 		<url>http://35.227.77.23:8081/repository/deploysnap/</url>
 	</snapshotRepository>
-</distributionManagement>
-
-
 
 </project>
